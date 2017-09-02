@@ -1,0 +1,22 @@
+{
+  "name": "chloecore",
+  "description": "A core for Discord bots with discord.js.",
+  "author": "AperLambda",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AperLambda/chloecore.git"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+    "bson-ext": "^1.0.5",
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0",
+    "hashmap": "^2.1.0",
+    "lambdacommonjs": "^1.0.1",
+    "mkdirp": "^0.5.1",
+    "mongodb": "^2.2.31",
+    "underscore": "^1.8.3"
+  }
+}
