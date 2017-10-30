@@ -9,9 +9,9 @@ A core for Discord bots written in JavaScript with discord.js. It features a lig
 ## Installation
 `chloecore` can be included in the `package.json` file as a dependency:
 ```json
-  "dependencies": {
-    "chloecore": "https://github.com/AperLambda/chloecore.git"
-  }
+"dependencies": {
+  "chloecore": "https://github.com/AperLambda/chloecore.git"
+}
 ```
 
 It can then be loaded with
