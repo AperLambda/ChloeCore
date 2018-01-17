@@ -18,7 +18,7 @@
     "hashmap": "^2.1.0"
   },
   "devDependencies": {
-    "bson-ext": "^1.0.5"
+    "bson-ext": "^1.0.5",
     "mkdirp": "^0.5.1",
     "mongodb": "^2.2.31",
     "underscore": "^1.8.3"
