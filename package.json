@@ -1,5 +1,5 @@
 {
-  "name": "chloecore",
+  "name": "chloecorejs",
   "description": "A core for Discord bots with discord.js.",
   "author": "AperLambda",
   "license": "MIT",
@@ -12,15 +12,15 @@
   "dependencies": {
     "colors": "^1.1.2",
     "discord.js": "^11.1.0",
-    "lambdacommonjs": "^1.0.1"
-  },
-  "devDependencies": {
-    "bson-ext": "^1.0.5",
-    "hashmap": "^2.1.0",
-    "mkdirp": "^0.5.1",
-    "mongodb": "^2.2.31",
+    "lambdacommonjs": "^1.0.1",
     "request": "^2.76.0",
     "request-promise": "^4.2.2",
+    "hashmap": "^2.1.0"
+  },
+  "devDependencies": {
+    "bson-ext": "^1.0.5"
+    "mkdirp": "^0.5.1",
+    "mongodb": "^2.2.31",
     "underscore": "^1.8.3"
   }
 }
